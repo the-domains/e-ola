@@ -1,0 +1,28 @@
+name: e ola
+favicon: null
+layout_spectrum: 0.7756734166759998
+typography_spectrum: 0.4933454224374145
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9877201337367296
+  lightness: 0.6673706276342273
+  saturation: 0.7436528075486422
+  rhythmicContrast: 0.2353537541348487
+purpose: []
