@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[we support humans to have fun, health and sustainability at the beat of their hearts]]></title>
         <description><![CDATA[we support humans to have fun, health and sustainability at the beat of their hearts]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/e-ola/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 06:30:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Aug 2016 06:31:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/e-ola/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>e ola</p>]]></description>
-            <link>undefinede-ola/index.html</link>
+            <link>https://thegrid.ai/e-ola/e-ola/index.html</link>
             <guid isPermaLink="false">7a439fba-c48e-41ff-a927-283ea882d05b</guid>
-            <pubDate>Wed, 10 Aug 2016 06:30:11 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2016 06:31:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
