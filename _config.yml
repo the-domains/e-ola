@@ -1,4 +1,3 @@
-layout_spectrum: 0.8207341900561005
 typography_spectrum: 0.9066170586738735
 color:
   brandColors:
@@ -11,19 +10,20 @@ color:
   lightness: 0.9465421892236918
   saturation: 0.13563029537908733
   rhythmicContrast: 0.4911202802322805
-name: e ola
-favicon: null
-title: e ola  -  raising ideas for humanity
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.8207341900561005
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: e ola
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: e ola
 purpose: []
