@@ -1,7 +1,18 @@
+layout_spectrum: 0.8207341900561005
+typography_spectrum: 0.9066170586738735
+color:
+  brandColors:
+    - '#10222B'
+    - '#95AB63'
+    - '#BDD684'
+    - '#E2F0D6'
+    - '#F6FFE0'
+  brandStrength: 0.516071391524747
+  lightness: 0.9465421892236918
+  saturation: 0.13563029537908733
+  rhythmicContrast: 0.4911202802322805
 name: e ola
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.72816
 title: e ola  -  raising ideas for humanity
 cta:
   domain: null
@@ -15,15 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#151314'
-    - '#b9b2ac'
-    - '#436d97'
-    - '#ad7b34'
-    - '#c21a22'
-  brandStrength: 0.9877201337367296
-  lightness: 0.6673706276342273
-  saturation: 0.7436528075486422
-  rhythmicContrast: 0.2353537541348487
 purpose: []
